@@ -4,4 +4,4 @@ Fall 2022 session, taught by [Rahul Krishnan](http://www.cs.toronto.edu/~rahulgk
 
 ## Table of Contents
 
-1. 
+1. [Intro](01 intro)
