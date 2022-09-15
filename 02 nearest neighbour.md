@@ -26,8 +26,8 @@ Can classify $\x$ by finding the input vector in the training set that is closes
 ### Algorithm
 
 $$
-\x^* = \argmin_{\mathbf p \in \text{training set}} \abs{x - p} \\
-\text{output } y = t^*
+\x^\ast = \argmin_{\mathbf p \in \text{training set}} \abs{x - p} \\
+\text{output } y = t^\ast
 $$
 
 Classification and decision boundaries correspond to voronoi diagram
@@ -42,7 +42,7 @@ Classification and decision boundaries correspond to voronoi diagram
 
 ### Algorithm
 
-- get $k$ closest input examples $(\x^*, t^*)$ to $\x$
+- get $k$ closest input examples $(\x^\ast, t^\ast)$ to $\x$
 - output is class that shows up the most in those $k$ examples
 
 ### Choosing $k$ - hyperparameter tuning
