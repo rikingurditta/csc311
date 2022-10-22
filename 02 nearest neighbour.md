@@ -26,7 +26,7 @@ Can classify $\x$ by finding the input vector in the training set that is closes
 ### Algorithm
 
 $$
-\x^\ast = \argmin_{\mathbf p \in \text{training set}} \abs{x - p} \\
+\x^\ast = \argmin_{\mathbf p \in \text{training set}} \abs{\x - \mathbf p} \\
 \text{output } y = t^\ast
 $$
 
