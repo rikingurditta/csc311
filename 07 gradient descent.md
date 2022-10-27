@@ -11,6 +11,7 @@ $$
 \newcommand{\L}{\mathcal L}
 \newcommand{\D}{\mathcal D}
 \newcommand{\partials}[2]{\frac{\partial #1}{\partial #2}}
+\newcommand{\ds}{\displaystyle}
 $$
 
 ## Speeding up gradient descent
