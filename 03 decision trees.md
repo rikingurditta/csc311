@@ -44,3 +44,15 @@ H(X \given Y) &= \E_{y \in Y}[H(X \given Y = y)] \\
 &= -\sum_{x \in X} \sum_{y \in Y} p(x, y) \log_2p(x \given y)
 \end{align*}
 $$
+Using the chain rule, we have
+$$
+H(X, Y) = H(X) + H(Y \given X) = H(Y) + H(X \given Y)
+$$
+So if
+
+### Information gain
+
+
+$$
+IG(X \given Y) = H(X) - H(X \given Y)
+$$
