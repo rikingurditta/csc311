@@ -15,3 +15,5 @@ Fall 2022 session, taught by [Rahul Krishnan](http://www.cs.toronto.edu/~rahulgk
 1. [Linear Classifiers vs kNN](09 linear classifiers vs knn)
 1. [Softmax Regression](10 softmax regression)
 1. [Neural Networks](11 neural networks)
+
+[Exam Review](exam review)

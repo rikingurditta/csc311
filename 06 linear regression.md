@@ -6,6 +6,7 @@ $$
 \DeclareMathOperator*{\Var}{Var}
 \newcommand{\abs}[1]{\left\lvert #1 \right\rvert}
 \newcommand{\norm}[1]{\left\lVert #1 \right\rVert}
+\newcommand{\partials}[2]{\frac{\partial #1}{\partial #2}}
 \newcommand{\brackets}[1]{\left[ #1 \right]}
 \DeclareMathOperator*{\argmin}{argmin}
 \newcommand{\given}{\,\vert\,}

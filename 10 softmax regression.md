@@ -16,6 +16,7 @@ $$
 \newcommand{\given}{\,\vert\,}
 \newcommand{\L}{\mathcal L}
 \newcommand{\D}{\mathcal D}
+\newcommand{\ds}{\displaystyle}
 $$
 
 ## Non-binary classification
